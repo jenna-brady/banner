@@ -25,10 +25,10 @@ html {
 }
 
 .banner {
-position: relative;
-width: 100%;
-max-height: 24em;
-overflow: hidden;
+  position: relative;
+  width: 100%;
+  max-height: 24em;
+  overflow: hidden;
 }
 
 .banner-content {
@@ -38,4 +38,4 @@ overflow: hidden;
 
   left: 0%;
   bottom:0%;
-  }
+}
